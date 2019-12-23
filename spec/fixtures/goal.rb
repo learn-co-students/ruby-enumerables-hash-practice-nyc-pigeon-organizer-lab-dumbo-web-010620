@@ -1,4 +1,4 @@
-{
+def pigeon_list = {
   "Theo" => {
     :color => ["purple", "grey"],
     :gender => ["male"],
@@ -14,7 +14,7 @@
     :gender => ["male"],
     :lives => ["Central Park"]
   },
-  "Ms .K" => {
+  "Ms K." => {
     :color => ["grey", "white"],
     :gender => ["female"],
     :lives => ["Central Park"]
@@ -35,3 +35,7 @@
     :lives => ["Central Park"]
   }
 }
+
+def nyc_pigeon_organizer(data)
+ 
+ end 
